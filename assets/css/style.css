@@ -1,0 +1,38 @@
+.mainHeader{
+    border-style:solid;
+    font-weight: bold;
+    background-color: goldenrod;
+}
+
+.instructions{
+    border-style:solid;
+    font-size: 20px;
+    background-color: palegoldenrod;
+}
+
+.targetNumber{
+    border-style: solid;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: grey;
+}
+
+.score{
+    border-style:solid;
+    font-size: 15px;
+    background-color: plum;
+}
+
+.totalScore{
+    border-style:solid;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: grey;
+}
+
+.crystalCount{
+    border-style:solid;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: grey;
+}
