@@ -1,26 +1,47 @@
 .mainHeader{
     border-style:solid;
     font-weight: bold;
+    text-align: center;
     background-color: goldenrod;
+    margin-top: 0px;
+    margin-right: 900px;
+    margin-bottom: 0px;
+    margin-left: 10px;
 }
 
 .instructions{
     border-style:solid;
     font-size: 20px;
     background-color: palegoldenrod;
+    margin-top: 0px;
+    margin-right: 700px;
+    margin-bottom: 0px;
+    margin-left: 10px;
 }
 
 .targetNumber{
+    float: left;
     border-style: solid;
     font-weight: bold;
     font-size: 25px;
+    text-align: center;
     background-color: grey;
+    margin-top: 0px;
+    margin-right: 1100px;
+    margin-bottom: 0px;
+    margin-left: 10px;
 }
 
 .score{
+    float: center;
     border-style:solid;
     font-size: 15px;
+    text-align: center;
     background-color: plum;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 1100px;
 }
 
 .totalScore{
@@ -28,6 +49,10 @@
     font-weight: bold;
     font-size: 15px;
     background-color: grey;
+    margin-top: 0px;
+    margin-right: 1100px;
+    margin-bottom: 0px;
+    margin-left: 10px;
 }
 
 .crystalCount{
@@ -35,4 +60,8 @@
     font-weight: bold;
     font-size: 15px;
     background-color: grey;
+    margin-top: 0px;
+    margin-right: 1100px;
+    margin-bottom: 1100px;
+    margin-left: 10px;
 }
